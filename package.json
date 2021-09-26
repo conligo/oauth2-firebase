@@ -1,5 +1,5 @@
 {
-  "name": "oauth2-firebase",
+  "name": "@conligo/oauth2-firebase",
   "version": "0.1.16",
   "description": "This library provides OAuth2 server implementation for Firebase",
   "main": "dist/index.js",
@@ -16,15 +16,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/yoichiro/oauth2-firebase.git"
+    "url": "git+ssh://git@github.com/conligo/oauth2-firebase.git"
   },
-  "author": "Yoichiro Tanaka <yoichiro6642@gmail.com> (https://github.com/yoichiro)",
-  "license": "Apache-2.0",
-  "bugs": {
-    "url": "https://github.com/yoichiro/oauth2-firebase/issues",
-    "email": "yoichiro6642@gmail.com"
-  },
-  "homepage": "https://github.com/yoichiro/oauth2-firebase.git",
   "dependencies": {
     "ejs": "^2.6.1",
     "express": "^4.16.3",
